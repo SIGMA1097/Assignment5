@@ -6,15 +6,13 @@ A GitHub repository with a README.md is created
 Preliminary Analysis
 The Hitters Cleaned dataset is a ‘mixed dataset’ containing continuous and categorical data set. In this dataset there are various independent variables like AtBat, Hits, HmRuns, Runs, RBI, Walks, Years, CatBat, Chits, CHmRun, Cruns, CRBI, Cwalks, League, Division, Putouts, Assists, Errors and a single dependant variable Salary.
 
-##  STEP-2
-Pre-Requisites
+## Pre-Requisites
 As a pre-requisite we need python, jupyter notebook for coding and git hub to host this project.
 This project requires the dataset named Hitters-Cleaned.csv 
 
 A Python file (code) named "Hitters-Cleaned" is uploaded
 
-### STEP-3
-Installing
+### Installing
 Following python libraries was imported before starting the project.
 Pandas
 numpy
