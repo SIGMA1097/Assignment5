@@ -32,8 +32,8 @@ Dataset contains various independent variables like AtBat, Hits, HmRuns, Runs, R
 KEY STATISTICS is decribed
 The key statistics such as 'count','mean'(average),'std'(standard deviation),'min'(minimum value),'25%','50%','75%'(percentiles) and 'max'(maximum value) is described.
 
-Author
+###### Author
 SIGMA SASIDHARAN
 
-Acknowledgement
+####### Acknowledgement
 Thank You
